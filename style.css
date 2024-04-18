@@ -112,7 +112,7 @@ p{
 }
 
 .sc1 ul{
-    width: 60%;
+    width: 50%;
     display: flex;
     flex-direction: column;
     list-style: none;
